@@ -1,5 +1,5 @@
 
-PNGzooplot <- function(returns, lastprice=1234, title="", max=10000, min=10){
+PNGzooplot <- function(returns, lastprice=1234, title="", max=10000, min=10, dn.col='goldenrod4', up.col='goldenrod'){
 
 
 prices      <- lastprice + (lastprice * returns)

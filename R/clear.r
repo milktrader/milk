@@ -1,2 +1,2 @@
-clear <- function(){print(system("clear"))}
+clear <- function(){system("clear")}
 
