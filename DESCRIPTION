@@ -6,4 +6,5 @@ Date: 2012-06-30
 Author: milktrader  
 Maintainer: milktrader <milktrader@gmail.com>
 Description: Various functions mostly related to trading
+Depends: quantmod
 License: GPL-2 
