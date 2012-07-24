@@ -1,2 +1,4 @@
-clear <- function(){system("clear")}
+cl = function(){
+  system("clear")
+}
 
