@@ -1,4 +1,4 @@
-pythonplot <- function(file='foo',  xlab="", up.col='khaki', dn.col='khaki4', main='Nasdaq 100 components') {
+pythonplot <- function(file='foo',  xlab="", up.col='yellow', dn.col='yellow4', main='Nasdaq 100 components') {
 
   bar   = read.table(file)
   ups   = length(bar[(bar>0),])
