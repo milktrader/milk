@@ -6,5 +6,5 @@ Date: 2012-06-30
 Author: milktrader  
 Maintainer: milktrader <milktrader@gmail.com>
 Description: Various functions mostly related to trading
-Depends: quantstrat, PerformanceAnalytics, testthat
+Depends: PerformanceAnalytics
 License: GPL-2 
